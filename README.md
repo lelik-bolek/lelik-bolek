@@ -60,6 +60,7 @@
 |---------|----------|------|
 | **PurchaseAnalyzer** *(в разработке)* | Сервис анализа покупок и классификации товаров через GigaChat API | Java 21, Spring Boot, PostgreSQL, REST |
 | **SpringDataDemo** | CLI CRUD-приложение на Spring Data JPA с Person и Address | Java, Spring Boot, JPA, H2 |
+| **currency-project** | Учебное Java-приложение, построенное по архитектуре микросервисов | H2 Database, XML-парсинг, HTTP API, веб-интерфейс |
 | **SQL-ETL-lab** | Примеры обработки и трансформации данных с Airflow и NiFi | SQL, Airflow, NiFi |
 | **PythonAnalytics** | Учебные проекты по анализу данных и визуализации | Python, pandas, matplotlib |
 
