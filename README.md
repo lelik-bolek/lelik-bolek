@@ -3,28 +3,17 @@
 👋 Добро пожаловать на мой GitHub!  
 Я инженер данных с опытом в обработке, хранении и анализе данных.
 
-Развиваю навыки backend-разработки, микросервисов и работы с облачными и AI-технологиями.
-В настоящее время активно изучаю **Java-разработку**: ООП, Spring Framework, работу с базами данных (JPA, SQL) и создание REST-сервисов.
+В настоящее время активно изучаю **архитектуру DWH**, работу с потоками данных, построение ETL/ELT-процессов, а также продолжаю развивать навыки **Java-разработки**: ООП, Spring Framework, JPA, создание REST-сервисов и микросервисной архитектуры.
 
 ---
 
 ### 🧠 Основные интересы
 
 - Data Engineering (SQL, ETL, Airflow, Apache NiFi, Arenadata)
-- Java-разработка (Spring Boot, JPA, Maven, REST)
-- Объектно-Ориентированное Программирование (ООП) на Java
+- Архитектура DWH, Data Vault, Lakehouse, нормализация данных (1НФ–3НФ)
 - Микросервисная архитектура
 - Интеграция данных, автоматизация
 - Использование ИИ в прикладных задачах (например, категоризация товаров)
-
----
-
-## 📌 Текущий проект
-
-**📦 PurchaseAnalyzer**  
-Сервис для анализа покупок из email и категоризации товаров через AI  
-**Stack:** Java 21, Spring Boot, PostgreSQL, GigaChat API, REST, Maven  
-**Цель:** Автоматизировать сбор и классификацию расходов для личного финансового анализа
 
 ---
 
@@ -48,11 +37,10 @@
 
 ## 🧰 Навыки и стек
 
-**Языки:** SQL, Python,  Java
-**Технологии:**  Airflow, NiFi, SAP BODS, Spring Boot, JPA/Hibernate,
+**Языки:** SQL, Python, Java
+**Технологии:**  Airflow, NiFi, SAP BODS, dbt
 **Базы данных:** PostgreSQL, Greenplum, H2  
 **Инструменты:** Git, VS Code, Maven, Docker  
-**Облачные технологии:** в процессе изучения
 
 ---
 
@@ -60,6 +48,7 @@
 
 | Название | Описание | Стек |
 |---------|----------|------|
+| **DWH_Relational_Model** | Проект демонстрирует процесс нормализации реляционной модели данных 0НФ → 3НФ с SQL-скриптами и CSV-данными | PostgreSQL, SQL, DBeaver
 | **PurchaseAnalyzer** *(в разработке)* | Сервис анализа покупок и классификации товаров через GigaChat API | Java 21, Spring Boot, PostgreSQL, REST |
 | **SpringWebBase** | Базовый веб-сервис на Spring Boot с контроллерами, шаблонами и логикой | Java, Spring Boot, Thymeleaf, Maven, H2  |
 | **SpringDataDemo** | CLI CRUD-приложение на Spring Data JPA с Person и Address | Java, Spring Boot, JPA, H2, Maven |
