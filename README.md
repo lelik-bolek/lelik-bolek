@@ -54,4 +54,4 @@
 | **SpringDataDemo** | CLI CRUD-приложение на Spring Data JPA с Person и Address | Java, Spring Boot, JPA, H2, Maven |
 | **currency-project** | Учебное Java-приложение, построенное по архитектуре микросервисов | H2 Database, XML-парсинг, HTTP API, веб-интерфейс |
 | **PythonAnalytics** | Учебные проекты по анализу данных и визуализации | Python, pandas, matplotlib |
-
+| **eltdwh-airflow-dbt** | Автоматизация загрузки, трансформации и хранения данных в DWH с Airflow и dbt: Airflow управляет ETL-пайплайнами, dbt формирует core и marts слои с поддержкой истории изменений | Python, Airflow, dbt, PostgreSQL                  |
