@@ -47,3 +47,8 @@
 * **C4 Model Diagrams:** визуализация уровней Container и Component (исходники `.drawio` + `.png`).
 * **ADR (Architecture Decision Records):** фиксация ключевых компромиссов, ограничений и обоснований решений.
 * **Runbooks:** воспроизводимые инструкции для развертывания, тестирования и траблшутинга.
+
+## 📬 Контакты
+* **Сайт-портфолио:** [lelik-bolek.github.io](https://lelik-bolek.github.io/)
+* **LinkedIn:** [Alexander Lelikov](https://www.linkedin.com/in/alexander-lelikov-alexander/)
+* **Email:** [lelikov2@yandex.ru](mailto:lelikov2@yandex.ru)
